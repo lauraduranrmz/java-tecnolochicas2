@@ -1,0 +1,12 @@
+package sesión2;
+
+public class MiSegundoHilo implements Runnable{
+
+    @Override
+    public void run(){
+          for(int i=0; i < 10; i++){
+            System.out.println("=>"+ i);
+        }
+    }
+    
+}
