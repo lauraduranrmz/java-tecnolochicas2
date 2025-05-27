@@ -1,4 +1,4 @@
-package sesión2Reto02;
+package sesión1Reto02;
 
 public abstract class MaterialCurso {
     protected String titulo;

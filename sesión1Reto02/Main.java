@@ -1,4 +1,4 @@
-package sesión2Reto02;
+package sesión1Reto02;
 
 import java.util.ArrayList;
 import java.util.List;
